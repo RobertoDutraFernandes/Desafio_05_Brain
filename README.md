@@ -28,3 +28,6 @@ Para finalizar, a rede é salva segundo os melhores parâmetros obtidos no trein
 
 # Etapa III - Testando a performace da rede
 Para avaliar o modelo foram realizados 2 teste, no primeiro é plotado algumas imagens de dentro do set de teste com sua respectiva classe, e depois é predito a classe dessas mesma imagens através do modelo, sendo possível verificar a veracidade da predição. Por ultimo é feita uma comparação dentre toda as classes das imagens do set de teste e daquelas classes preditas pela rede em relação as imagens deste mesmo set, ao final disso é plotado uma matriz de confusão para que se possa analisar o resultado da rede. A rede desenvolvida apresenta uma acurácia de aproximadamente 99,72%
+
+## Matrix de Confusão:
+![alt text](/arquivos_necessarios/images/confusion_matrix.png)
